@@ -73,21 +73,27 @@ company's growth. </p>
       </section>
       <section className='experience'>
         <h2>Experience:</h2>
-        <h4>Web developer</h4>
-        <p>March 2023- september 2023</p>
-        <ul>
+        <h4>web developer</h4>
+        
+        <h4>March 2023 to September 2023</h4>
+      <ul>
           <li>Develop and maintain company websites, improving user experience and performance</li>
-          <li>Collaborate with cross-functional teams to deliver high-quality web applications.</li>
-          <li>Implement responsive web design and accessibility best practices.</li>
+          <li>Collaborate with cross-functional teams to deliver hight-quality web applications</li>
+          <li>Implement responsive web design and accessibility best practices</li>
+          
         </ul>
 
       </section>
 
+      <div className='experience-border'></div> 
+
       <strong>Education:</strong>
+
+    
       <div className="education">
             <div className="table-row header-row">
               <div className="table-cell">Degree</div>
-              <div className="table-cell">Umiversity</div>
+              <div className="table-cell">University</div>
               <div className="table-cell">Year</div>
             </div>
             <div className="table-row">
@@ -107,6 +113,7 @@ company's growth. </p>
             </div>
           
           </div>
+      
 
           <section className='experience'>
         <h4>Strength:</h4>
